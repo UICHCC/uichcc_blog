@@ -4,7 +4,7 @@
 
 # Site
 title: UICHCC - 计算机俱乐部
-subtitle: HomeBrew Computer Club
+subtitle: Homebrew Computer Club
 description: UIC, Computer, CS, CST, Computer Science, 计算机, 联合国际学院, 计算机科学, 计算机科学与技术
 author: UICHCC
 language: zh-CN
@@ -19,7 +19,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: ../blog
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
