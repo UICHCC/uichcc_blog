@@ -19,4 +19,3 @@ date: 2016/12/07 00:00:00
 马上就要迎来长达1个多月的圣诞节假期啦（没错就是寒假~），不如现在就尝试一下，换上属于 UICer 的专属微信头像！！
 
 [使用 UIC 专属头像合成器](https://tools.uichcc.com/uic_headphoto_synthesizer/)
-

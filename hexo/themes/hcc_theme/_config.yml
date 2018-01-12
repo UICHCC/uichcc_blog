@@ -1,0 +1,11 @@
+menu:
+  Home: ../
+  Blog: ../blog
+  Projects: ../projects
+  Groups: ../groups
+  About: ../about
+  Contact Us: ../contacts
+
+
+# Read More text
+excerpt_link: Read More

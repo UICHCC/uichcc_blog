@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <%- partial('_partial/head') %>
+    <body>
+        <!-- Navbar -->
+        <%- partial('_partial/navbar') %>
+            <!-- Blog Header: title and subtitle -->
+            <%- partial('_partial/header') %>
+        <div class="container marketing">
+            <%- body %>
+            <!-- Footer -->
+            <hr class="featurette-divider">
+            <%- partial('_partial/footer') %>
+            <!-- After footer scripts -->
+        </div>
+        <%- partial('_partial/after-footer') %>
+    </body>
+</html>

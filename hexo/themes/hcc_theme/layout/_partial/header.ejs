@@ -1,0 +1,17 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active" style="background-image: url(https://i.loli.net/2018/01/12/5a5851e72c7c2.jpg);">
+            <img class="first-slide" src="https://i.loli.net/2018/01/12/5a5851e72c7c2.jpg" alt="First slide">
+            <div class="container">
+                <div class="carousel-caption carousel-caption-bright d-none d-block text-left">
+                    <h1><%= config.title %></h1>
+                    <p>
+                        <% if (config.subtitle){ %>
+                            <%= config.subtitle %>
+                        <% } %>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
